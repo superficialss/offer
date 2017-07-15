@@ -20,6 +20,7 @@ using namespace std;
 #include"Add.h"
 #include"MinNumberInRotateArray.h"
 #include"EntryNodeOfLoop.h"
+#include"Fibonacci.h"
 
 int main()
 {
@@ -33,7 +34,9 @@ int main()
 	//TestReverseList();
 	//TestFindKthToTail();
 	//TestAdd();
-	TestMinNumberInRotateArray();
+	//TestMinNumberInRotateArray();
 	//TestEntryNodeOfLoop();
+	TestFibonacci();
+
 	return 0;
 }

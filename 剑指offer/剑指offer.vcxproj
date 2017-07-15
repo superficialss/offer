@@ -151,6 +151,7 @@
   <ItemGroup>
     <ClInclude Include="Add.h" />
     <ClInclude Include="EntryNodeOfLoop.h" />
+    <ClInclude Include="Fibonacci.h" />
     <ClInclude Include="FindInArray.h" />
     <ClInclude Include="FindKthToTail.h" />
     <ClInclude Include="MergeList.h" />
