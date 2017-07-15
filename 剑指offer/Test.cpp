@@ -33,7 +33,7 @@ int main()
 	//TestReverseList();
 	//TestFindKthToTail();
 	//TestAdd();
-	//TestMinNumberInRotateArray();
-	TestEntryNodeOfLoop();
+	TestMinNumberInRotateArray();
+	//TestEntryNodeOfLoop();
 	return 0;
 }
