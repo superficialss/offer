@@ -4,6 +4,7 @@
 #include<string.h>
 #include<stack>
 #include<assert.h>
+#include<utility>
 
 using namespace std;
 
@@ -15,9 +16,10 @@ using namespace std;
 //#include"MergeList.h"
 #include"SumSolution.h"
 //#include"ReverseList.h"
-#include"FindKthToTail.h"
+//#include"FindKthToTail.h"
 #include"Add.h"
 #include"MinNumberInRotateArray.h"
+#include"EntryNodeOfLoop.h"
 
 int main()
 {
@@ -31,7 +33,7 @@ int main()
 	//TestReverseList();
 	//TestFindKthToTail();
 	//TestAdd();
-	TestMinNumberInRotateArray();
-
+	//TestMinNumberInRotateArray();
+	TestEntryNodeOfLoop();
 	return 0;
 }

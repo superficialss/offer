@@ -53,5 +53,8 @@
     <ClInclude Include="MinNumberInRotateArray.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="EntryNodeOfLoop.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

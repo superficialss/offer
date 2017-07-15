@@ -5,7 +5,8 @@
 
 int MinNumberInRotateArray(vector<int> rotateArray)
 {
-
+	int min = 0;
+	return min;
 }
 
 void TestMinNumberInRotateArray()
