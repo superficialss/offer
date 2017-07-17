@@ -154,6 +154,7 @@
     <ClInclude Include="Fibonacci.h" />
     <ClInclude Include="FindInArray.h" />
     <ClInclude Include="FindKthToTail.h" />
+    <ClInclude Include="JumpFloor.h" />
     <ClInclude Include="MergeList.h" />
     <ClInclude Include="MinNumberInRotateArray.h" />
     <ClInclude Include="PrintListFromTailToHead.h" />

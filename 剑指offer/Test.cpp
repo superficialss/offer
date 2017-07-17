@@ -21,6 +21,7 @@ using namespace std;
 #include"MinNumberInRotateArray.h"
 #include"EntryNodeOfLoop.h"
 #include"Fibonacci.h"
+#include"JumpFloor.h"
 
 int main()
 {
@@ -36,7 +37,7 @@ int main()
 	//TestAdd();
 	//TestMinNumberInRotateArray();
 	//TestEntryNodeOfLoop();
-	TestFibonacci();
-
+	//TestFibonacci();
+	TestJumpFloor();
 	return 0;
 }
