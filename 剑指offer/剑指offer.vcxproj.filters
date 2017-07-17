@@ -59,5 +59,11 @@
     <ClInclude Include="Fibonacci.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="JumpFloor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DelNode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

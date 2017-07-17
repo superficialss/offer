@@ -19,9 +19,10 @@ using namespace std;
 //#include"FindKthToTail.h"
 #include"Add.h"
 #include"MinNumberInRotateArray.h"
-#include"EntryNodeOfLoop.h"
+//#include"EntryNodeOfLoop.h"
 #include"Fibonacci.h"
 #include"JumpFloor.h"
+#include"DelNode.h"
 
 int main()
 {
@@ -38,6 +39,7 @@ int main()
 	//TestMinNumberInRotateArray();
 	//TestEntryNodeOfLoop();
 	//TestFibonacci();
-	TestJumpFloor();
+	//TestJumpFloor();
+	TestDelNode();
 	return 0;
 }
