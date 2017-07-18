@@ -23,6 +23,7 @@ using namespace std;
 #include"Fibonacci.h"
 #include"JumpFloor.h"
 #include"DelNode.h"
+#include"JumpFloorII.h"
 
 int main()
 {
@@ -40,6 +41,7 @@ int main()
 	//TestEntryNodeOfLoop();
 	//TestFibonacci();
 	//TestJumpFloor();
-	TestDelNode();
+	//TestDelNode();
+	TestJumpFloorII();
 	return 0;
 }
