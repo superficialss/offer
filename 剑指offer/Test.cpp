@@ -24,6 +24,7 @@ using namespace std;
 #include"JumpFloor.h"
 #include"DelNode.h"
 #include"JumpFloorII.h"
+#include"RectCover.h"
 
 int main()
 {
@@ -42,6 +43,8 @@ int main()
 	//TestFibonacci();
 	//TestJumpFloor();
 	//TestDelNode();
-	TestJumpFloorII();
+	//TestJumpFloorII();
+	TestRectCover();
+
 	return 0;
 }
