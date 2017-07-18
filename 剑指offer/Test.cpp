@@ -5,6 +5,7 @@
 #include<stack>
 #include<assert.h>
 #include<utility>
+#include<queue>
 
 using namespace std;
 
@@ -25,6 +26,7 @@ using namespace std;
 #include"DelNode.h"
 #include"JumpFloorII.h"
 #include"RectCover.h"
+#include"StackWithTwoQueue.h"
 
 int main()
 {
@@ -44,7 +46,7 @@ int main()
 	//TestJumpFloor();
 	//TestDelNode();
 	//TestJumpFloorII();
-	TestRectCover();
-
+	//TestRectCover();
+	TestStackWithTwoQueue();
 	return 0;
 }

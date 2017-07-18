@@ -1,4 +1,5 @@
 #pragma once
+//用两个栈实现队列
 
 class Queue
 {

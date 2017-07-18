@@ -165,6 +165,7 @@
     <ClInclude Include="RectCover.h" />
     <ClInclude Include="ReplaceSpace.h" />
     <ClInclude Include="ReverseList.h" />
+    <ClInclude Include="StackWithTwoQueue.h" />
     <ClInclude Include="SumSolution.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
