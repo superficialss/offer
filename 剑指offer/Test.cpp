@@ -27,6 +27,7 @@ using namespace std;
 #include"JumpFloorII.h"
 #include"RectCover.h"
 #include"StackWithTwoQueue.h"
+#include"MinStack.h"
 
 int main()
 {
@@ -47,6 +48,8 @@ int main()
 	//TestDelNode();
 	//TestJumpFloorII();
 	//TestRectCover();
-	TestStackWithTwoQueue();
+	//TestStackWithTwoQueue();
+	TestMinStack();
+
 	return 0;
 }

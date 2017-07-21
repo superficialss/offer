@@ -159,6 +159,7 @@
     <ClInclude Include="JumpFloorII.h" />
     <ClInclude Include="MergeList.h" />
     <ClInclude Include="MinNumberInRotateArray.h" />
+    <ClInclude Include="MinStack.h" />
     <ClInclude Include="PrintListFromTailToHead.h" />
     <ClInclude Include="QueueWithTwoStack.h" />
     <ClInclude Include="ReConstructBinaryTree.h" />
