@@ -28,6 +28,7 @@ using namespace std;
 #include"RectCover.h"
 #include"StackWithTwoQueue.h"
 #include"MinStack.h"
+#include"IsPopOrder.h"
 
 int main()
 {
@@ -49,7 +50,7 @@ int main()
 	//TestJumpFloorII();
 	//TestRectCover();
 	//TestStackWithTwoQueue();
-	TestMinStack();
-
+	//TestMinStack();
+	TestIsPopOrder();
 	return 0;
 }

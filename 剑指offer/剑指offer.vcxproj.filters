@@ -77,5 +77,8 @@
     <ClInclude Include="MinStack.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="IsPopOrder.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
