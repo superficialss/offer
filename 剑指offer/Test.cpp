@@ -29,6 +29,7 @@ using namespace std;
 #include"StackWithTwoQueue.h"
 #include"MinStack.h"
 #include"IsPopOrder.h"
+#include"NumberOf1.h"
 
 int main()
 {
@@ -51,6 +52,9 @@ int main()
 	//TestRectCover();
 	//TestStackWithTwoQueue();
 	//TestMinStack();
-	TestIsPopOrder();
+	//TestIsPopOrder();
+	TestNumberOf1();
+	
+	
 	return 0;
 }
