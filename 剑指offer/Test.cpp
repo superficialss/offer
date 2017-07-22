@@ -12,7 +12,7 @@ using namespace std;
 #include"FindInArray.h"
 #include"ReplaceSpace.h"
 //#include"PrintListFromTailToHead.h"
-#include"ReConstructBinaryTree.h"
+//#include"ReConstructBinaryTree.h"
 #include"QueueWithTwoStack.h"
 //#include"MergeList.h"
 #include"SumSolution.h"
@@ -30,6 +30,7 @@ using namespace std;
 #include"MinStack.h"
 #include"IsPopOrder.h"
 #include"NumberOf1.h"
+#include"PrintLevelTree.h"
 
 int main()
 {
@@ -53,8 +54,9 @@ int main()
 	//TestStackWithTwoQueue();
 	//TestMinStack();
 	//TestIsPopOrder();
-	TestNumberOf1();
-	
+	//TestNumberOf1();
+	TestPrintLevelTree();
+
 	
 	return 0;
 }
