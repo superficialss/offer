@@ -31,6 +31,7 @@ using namespace std;
 #include"IsPopOrder.h"
 #include"NumberOf1.h"
 #include"PrintLevelTree.h"
+#include"Power.h"
 
 int main()
 {
@@ -55,7 +56,8 @@ int main()
 	//TestMinStack();
 	//TestIsPopOrder();
 	//TestNumberOf1();
-	TestPrintLevelTree();
+	//TestPrintLevelTree();
+	TestPower();
 
 	
 	return 0;

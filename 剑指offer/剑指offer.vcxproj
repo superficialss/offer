@@ -162,6 +162,7 @@
     <ClInclude Include="MinNumberInRotateArray.h" />
     <ClInclude Include="MinStack.h" />
     <ClInclude Include="NumberOf1.h" />
+    <ClInclude Include="Power.h" />
     <ClInclude Include="PrintLevelTree.h" />
     <ClInclude Include="PrintListFromTailToHead.h" />
     <ClInclude Include="QueueWithTwoStack.h" />
