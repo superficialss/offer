@@ -13,31 +13,28 @@ struct TreeNode {
 
 bool _HasSubtree(TreeNode* pRoot1, TreeNode* pRoot2)
 {
-	if (pRoot1 == NULL && pRoot2 == NULL)
+	if (pRoot2 == NULL)
 	{
 		return true;
 	}
+	if (pRoot1 == NULL)
+	{
+		return false;
+	}
 	if (pRoot1->val == pRoot2->val)
 	{
-		return _HasSubtree(pRoot1->left, pRoot2->left) 
-			&& _HasSubtree(pRoot1->right, pRoot2->right);
+		return _HasSubtree(pRoot1->left, pRoot2->left) && _HasSubtree(pRoot1->right, pRoot2->right);
 	}
 	return false;
 }
 
 bool HasSubtree(TreeNode* pRoot1, TreeNode* pRoot2)
 {
-	if (pRoot2 == NULL)
+	if (pRoot1 == NULL || pRoot2 == NULL)
 	{
 		return false;
 	}
-	if (pRoot1 == NULL)
-	{
-		return true;
-	}
-	return _HasSubtree(pRoot1, pRoot2) 
-		|| HasSubtree(pRoot1->left, pRoot2) 
-		|| HasSubtree(pRoot1->right, pRoot2);
+	return _HasSubtree(pRoot1, pRoot2) || HasSubtree(pRoot1->left, pRoot2) || HasSubtree(pRoot1->right, pRoot2);
 }
 
 TreeNode* CreatTree(int* array, size_t n, const int& invalid, int& index)
