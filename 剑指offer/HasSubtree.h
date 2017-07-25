@@ -25,7 +25,10 @@ bool _HasSubtree(TreeNode* pRoot1, TreeNode* pRoot2)
 	{
 		return _HasSubtree(pRoot1->left, pRoot2->left) && _HasSubtree(pRoot1->right, pRoot2->right);
 	}
-	return false;
+	else
+	{
+		return false;
+	}
 }
 
 bool HasSubtree(TreeNode* pRoot1, TreeNode* pRoot2)
