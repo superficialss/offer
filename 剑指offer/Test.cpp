@@ -30,9 +30,10 @@ using namespace std;
 #include"MinStack.h"
 #include"IsPopOrder.h"
 #include"NumberOf1.h"
-#include"PrintLevelTree.h"
+//#include"PrintLevelTree.h"
 #include"Power.h"
 #include"ReOrderArray.h"
+#include"HasSubtree.h"
 
 int main()
 {
@@ -59,7 +60,8 @@ int main()
 	//TestNumberOf1();
 	//TestPrintLevelTree();
 	//TestPower();
-	TestReOrderArray();
-	
+	//TestReOrderArray();
+	TestHasSubtree();
+
 	return 0;
 }
