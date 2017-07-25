@@ -168,6 +168,7 @@
     <ClInclude Include="QueueWithTwoStack.h" />
     <ClInclude Include="ReConstructBinaryTree.h" />
     <ClInclude Include="RectCover.h" />
+    <ClInclude Include="ReOrderArray.h" />
     <ClInclude Include="ReplaceSpace.h" />
     <ClInclude Include="ReverseList.h" />
     <ClInclude Include="StackWithTwoQueue.h" />

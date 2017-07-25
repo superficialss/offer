@@ -89,5 +89,8 @@
     <ClInclude Include="Power.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="ReOrderArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

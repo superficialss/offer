@@ -32,6 +32,7 @@ using namespace std;
 #include"NumberOf1.h"
 #include"PrintLevelTree.h"
 #include"Power.h"
+#include"ReOrderArray.h"
 
 int main()
 {
@@ -57,8 +58,8 @@ int main()
 	//TestIsPopOrder();
 	//TestNumberOf1();
 	//TestPrintLevelTree();
-	TestPower();
-
+	//TestPower();
+	TestReOrderArray();
 	
 	return 0;
 }
