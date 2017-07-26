@@ -33,7 +33,9 @@ using namespace std;
 //#include"PrintLevelTree.h"
 #include"Power.h"
 #include"ReOrderArray.h"
-#include"HasSubtree.h"
+//#include"HasSubtree.h"
+#include"Mirror.h"
+
 
 int main()
 {
@@ -61,7 +63,9 @@ int main()
 	//TestPrintLevelTree();
 	//TestPower();
 	//TestReOrderArray();
-	TestHasSubtree();
+	//TestHasSubtree();
+	TestMirror();
+
 
 	return 0;
 }

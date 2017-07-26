@@ -95,5 +95,8 @@
     <ClInclude Include="HasSubtree.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Mirror.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
