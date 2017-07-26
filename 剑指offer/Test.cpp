@@ -35,6 +35,7 @@ using namespace std;
 #include"ReOrderArray.h"
 //#include"HasSubtree.h"
 #include"Mirror.h"
+#include"PrintMatrix.h"
 
 
 int main()
@@ -64,8 +65,8 @@ int main()
 	//TestPower();
 	//TestReOrderArray();
 	//TestHasSubtree();
-	TestMirror();
-
+	//TestMirror();
+	TestPrintMatrix();
 
 	return 0;
 }

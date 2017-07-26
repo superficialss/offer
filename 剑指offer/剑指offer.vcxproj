@@ -167,6 +167,7 @@
     <ClInclude Include="Power.h" />
     <ClInclude Include="PrintLevelTree.h" />
     <ClInclude Include="PrintListFromTailToHead.h" />
+    <ClInclude Include="PrintMatrix.h" />
     <ClInclude Include="QueueWithTwoStack.h" />
     <ClInclude Include="ReConstructBinaryTree.h" />
     <ClInclude Include="RectCover.h" />
