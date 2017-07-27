@@ -36,7 +36,7 @@ using namespace std;
 //#include"HasSubtree.h"
 #include"Mirror.h"
 #include"PrintMatrix.h"
-
+#include"VerifySquenceOfBST.h"
 
 int main()
 {
@@ -66,7 +66,9 @@ int main()
 	//TestReOrderArray();
 	//TestHasSubtree();
 	//TestMirror();
-	TestPrintMatrix();
+	//TestPrintMatrix();
+	TestVerifySquenceOfBST();
+
 
 	return 0;
 }

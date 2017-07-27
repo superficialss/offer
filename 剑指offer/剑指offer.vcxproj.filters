@@ -101,5 +101,8 @@
     <ClInclude Include="PrintMatrix.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="VerifySquenceOfBST.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
