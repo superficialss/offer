@@ -34,9 +34,10 @@ using namespace std;
 #include"Power.h"
 #include"ReOrderArray.h"
 //#include"HasSubtree.h"
-#include"Mirror.h"
+//#include"Mirror.h"
 #include"PrintMatrix.h"
 #include"VerifySquenceOfBST.h"
+#include"FindPath.h"
 
 int main()
 {
@@ -67,8 +68,8 @@ int main()
 	//TestHasSubtree();
 	//TestMirror();
 	//TestPrintMatrix();
-	TestVerifySquenceOfBST();
-
+	//TestVerifySquenceOfBST();
+	TestFindPath();
 
 	return 0;
 }
