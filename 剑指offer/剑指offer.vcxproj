@@ -170,6 +170,7 @@
     <ClInclude Include="PrintListFromTailToHead.h" />
     <ClInclude Include="PrintMatrix.h" />
     <ClInclude Include="QueueWithTwoStack.h" />
+    <ClInclude Include="RandomClone.h" />
     <ClInclude Include="ReConstructBinaryTree.h" />
     <ClInclude Include="RectCover.h" />
     <ClInclude Include="ReOrderArray.h" />
