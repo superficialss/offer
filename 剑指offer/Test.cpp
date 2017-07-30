@@ -37,8 +37,9 @@ using namespace std;
 //#include"Mirror.h"
 #include"PrintMatrix.h"
 #include"VerifySquenceOfBST.h"
-#include"FindPath.h"
+//#include"FindPath.h"
 #include"RandomClone.h"
+#include"Convert.h"
 
 int main()
 {
@@ -71,7 +72,8 @@ int main()
 	//TestPrintMatrix();
 	//TestVerifySquenceOfBST();
 	//TestFindPath();
-	TestRandomClone();
+	//TestRandomClone();
+	TestConvert();
 
 	return 0;
 }

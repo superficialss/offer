@@ -150,6 +150,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Add.h" />
+    <ClInclude Include="Convert.h" />
     <ClInclude Include="DelNode.h" />
     <ClInclude Include="EntryNodeOfLoop.h" />
     <ClInclude Include="Fibonacci.h" />
