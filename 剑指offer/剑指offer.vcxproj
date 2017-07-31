@@ -166,6 +166,7 @@
     <ClInclude Include="MinStack.h" />
     <ClInclude Include="Mirror.h" />
     <ClInclude Include="NumberOf1.h" />
+    <ClInclude Include="Permutation.h" />
     <ClInclude Include="Power.h" />
     <ClInclude Include="PrintLevelTree.h" />
     <ClInclude Include="PrintListFromTailToHead.h" />

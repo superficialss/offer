@@ -6,6 +6,7 @@
 #include<assert.h>
 #include<utility>
 #include<queue>
+#include<string>
 
 using namespace std;
 
@@ -40,6 +41,7 @@ using namespace std;
 //#include"FindPath.h"
 #include"RandomClone.h"
 #include"Convert.h"
+#include"Permutation.h"
 
 int main()
 {
@@ -73,7 +75,8 @@ int main()
 	//TestVerifySquenceOfBST();
 	//TestFindPath();
 	//TestRandomClone();
-	TestConvert();
+	//TestConvert();
+	TestPermutation();
 
 	return 0;
 }

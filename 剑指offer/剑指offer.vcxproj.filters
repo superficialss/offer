@@ -113,5 +113,8 @@
     <ClInclude Include="Convert.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Permutation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
