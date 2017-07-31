@@ -165,6 +165,7 @@
     <ClInclude Include="MinNumberInRotateArray.h" />
     <ClInclude Include="MinStack.h" />
     <ClInclude Include="Mirror.h" />
+    <ClInclude Include="MoreThanHalfNum_Solution.h" />
     <ClInclude Include="NumberOf1.h" />
     <ClInclude Include="Permutation.h" />
     <ClInclude Include="Power.h" />

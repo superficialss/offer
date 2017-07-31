@@ -42,6 +42,7 @@ using namespace std;
 #include"RandomClone.h"
 #include"Convert.h"
 #include"Permutation.h"
+#include"MoreThanHalfNum_Solution.h"
 
 int main()
 {
@@ -76,7 +77,8 @@ int main()
 	//TestFindPath();
 	//TestRandomClone();
 	//TestConvert();
-	TestPermutation();
+	//TestPermutation();
+	TestMoreThanHalfNum();
 
 	return 0;
 }
