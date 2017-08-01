@@ -7,6 +7,7 @@
 #include<utility>
 #include<queue>
 #include<string>
+#include<algorithm>
 
 using namespace std;
 
@@ -43,6 +44,7 @@ using namespace std;
 #include"Convert.h"
 #include"Permutation.h"
 #include"MoreThanHalfNum_Solution.h"
+#include"GetLeastNumbers.h"
 
 int main()
 {
@@ -78,7 +80,8 @@ int main()
 	//TestRandomClone();
 	//TestConvert();
 	//TestPermutation();
-	TestMoreThanHalfNum();
+	//TestMoreThanHalfNum();
+	TestGetLeastNumbers();
 
 	return 0;
 }

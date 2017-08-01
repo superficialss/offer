@@ -157,6 +157,7 @@
     <ClInclude Include="FindInArray.h" />
     <ClInclude Include="FindKthToTail.h" />
     <ClInclude Include="FindPath.h" />
+    <ClInclude Include="GetLeastNumbers.h" />
     <ClInclude Include="HasSubtree.h" />
     <ClInclude Include="IsPopOrder.h" />
     <ClInclude Include="JumpFloor.h" />

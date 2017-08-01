@@ -119,5 +119,8 @@
     <ClInclude Include="MoreThanHalfNum_Solution.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="GetLeastNumbers.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
