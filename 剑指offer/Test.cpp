@@ -45,6 +45,7 @@ using namespace std;
 #include"Permutation.h"
 #include"MoreThanHalfNum_Solution.h"
 #include"GetLeastNumbers.h"
+#include"FindGreatestSumOfSubArray.h"
 
 int main()
 {
@@ -81,7 +82,9 @@ int main()
 	//TestConvert();
 	//TestPermutation();
 	//TestMoreThanHalfNum();
-	TestGetLeastNumbers();
+	//TestGetLeastNumbers();
+	TestFindGreatestSumOfSubArray();
+
 
 	return 0;
 }

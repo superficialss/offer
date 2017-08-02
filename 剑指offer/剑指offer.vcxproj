@@ -154,6 +154,7 @@
     <ClInclude Include="DelNode.h" />
     <ClInclude Include="EntryNodeOfLoop.h" />
     <ClInclude Include="Fibonacci.h" />
+    <ClInclude Include="FindGreatestSumOfSubArray.h" />
     <ClInclude Include="FindInArray.h" />
     <ClInclude Include="FindKthToTail.h" />
     <ClInclude Include="FindPath.h" />

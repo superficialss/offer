@@ -122,5 +122,8 @@
     <ClInclude Include="GetLeastNumbers.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="FindGreatestSumOfSubArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
