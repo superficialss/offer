@@ -175,6 +175,7 @@
     <ClInclude Include="PrintLevelTree.h" />
     <ClInclude Include="PrintListFromTailToHead.h" />
     <ClInclude Include="PrintMatrix.h" />
+    <ClInclude Include="PrintMinNumber.h" />
     <ClInclude Include="QueueWithTwoStack.h" />
     <ClInclude Include="RandomClone.h" />
     <ClInclude Include="ReConstructBinaryTree.h" />

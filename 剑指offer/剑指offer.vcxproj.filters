@@ -128,5 +128,8 @@
     <ClInclude Include="NumberOf1Between1AndN.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="PrintMinNumber.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
