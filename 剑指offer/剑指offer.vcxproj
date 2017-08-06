@@ -158,6 +158,7 @@
     <ClInclude Include="FindInArray.h" />
     <ClInclude Include="FindKthToTail.h" />
     <ClInclude Include="FindPath.h" />
+    <ClInclude Include="FirstNotRepeatingChar.h" />
     <ClInclude Include="GetLeastNumbers.h" />
     <ClInclude Include="GetUglyNumber_Solution.h" />
     <ClInclude Include="HasSubtree.h" />

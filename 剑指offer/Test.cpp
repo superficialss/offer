@@ -49,6 +49,7 @@ using namespace std;
 #include"NumberOf1Between1AndN.h"
 #include"PrintMinNumber.h"
 #include"GetUglyNumber_Solution.h"
+#include"FirstNotRepeatingChar.h"
 
 
 int main()
@@ -90,7 +91,8 @@ int main()
 	//TestFindGreatestSumOfSubArray();
 	//TestNumberOf1Between1AndN();
 	//TestPrintMinNumber();
-	TestGetUglyNumber();
+	//TestGetUglyNumber();
+	TestFirstNotRepeatingChar();
 
 
 	return 0;
