@@ -48,6 +48,7 @@ using namespace std;
 #include"FindGreatestSumOfSubArray.h"
 #include"NumberOf1Between1AndN.h"
 #include"PrintMinNumber.h"
+#include"GetUglyNumber_Solution.h"
 
 
 int main()
@@ -88,7 +89,8 @@ int main()
 	//TestGetLeastNumbers();
 	//TestFindGreatestSumOfSubArray();
 	//TestNumberOf1Between1AndN();
-	TestPrintMinNumber();
+	//TestPrintMinNumber();
+	TestGetUglyNumber();
 
 
 	return 0;
