@@ -162,6 +162,7 @@
     <ClInclude Include="GetLeastNumbers.h" />
     <ClInclude Include="GetUglyNumber_Solution.h" />
     <ClInclude Include="HasSubtree.h" />
+    <ClInclude Include="InversePairs.h" />
     <ClInclude Include="IsPopOrder.h" />
     <ClInclude Include="JumpFloor.h" />
     <ClInclude Include="JumpFloorII.h" />

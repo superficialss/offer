@@ -50,6 +50,7 @@ using namespace std;
 #include"PrintMinNumber.h"
 #include"GetUglyNumber_Solution.h"
 #include"FirstNotRepeatingChar.h"
+#include"InversePairs.h"
 
 
 int main()
@@ -92,7 +93,8 @@ int main()
 	//TestNumberOf1Between1AndN();
 	//TestPrintMinNumber();
 	//TestGetUglyNumber();
-	TestFirstNotRepeatingChar();
+	//TestFirstNotRepeatingChar();
+	TestInversePairs();
 
 
 	return 0;
