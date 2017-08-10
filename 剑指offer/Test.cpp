@@ -25,7 +25,7 @@ using namespace std;
 //#include"EntryNodeOfLoop.h"
 #include"Fibonacci.h"
 #include"JumpFloor.h"
-#include"DelNode.h"
+//#include"DelNode.h"
 #include"JumpFloorII.h"
 #include"RectCover.h"
 #include"StackWithTwoQueue.h"
@@ -51,6 +51,7 @@ using namespace std;
 #include"GetUglyNumber_Solution.h"
 #include"FirstNotRepeatingChar.h"
 #include"InversePairs.h"
+#include"FindFirstCommonNode.h"
 
 
 int main()
@@ -94,7 +95,8 @@ int main()
 	//TestPrintMinNumber();
 	//TestGetUglyNumber();
 	//TestFirstNotRepeatingChar();
-	TestInversePairs();
+	//TestInversePairs();
+	TestFindFirstCommonNode();;
 
 
 	return 0;
