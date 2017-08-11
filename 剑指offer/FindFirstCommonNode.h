@@ -69,5 +69,12 @@ void TestFindFirstCommonNode()
 	Push(list2, 4);
 	list2->next->next = list1->next->next->next;
 	ListNode* cur = FindFirstCommonNode(list1, list2);
-	cout << cur->val << endl;
+	if (cur)
+	{
+		cout << cur->val << endl;
+	}
+	else
+	{
+		cout << "无公共结点" << endl;
+	}
 }
