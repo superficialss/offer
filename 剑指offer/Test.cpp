@@ -52,6 +52,7 @@ using namespace std;
 #include"FirstNotRepeatingChar.h"
 #include"InversePairs.h"
 #include"FindFirstCommonNode.h"
+#include"GetNumberOfK.h"
 
 
 int main()
@@ -96,8 +97,8 @@ int main()
 	//TestGetUglyNumber();
 	//TestFirstNotRepeatingChar();
 	//TestInversePairs();
-	TestFindFirstCommonNode();;
-
+	//TestFindFirstCommonNode();;
+	TestGetNumberOfK();
 
 	return 0;
 }

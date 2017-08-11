@@ -161,6 +161,7 @@
     <ClInclude Include="FindPath.h" />
     <ClInclude Include="FirstNotRepeatingChar.h" />
     <ClInclude Include="GetLeastNumbers.h" />
+    <ClInclude Include="GetNumberOfK.h" />
     <ClInclude Include="GetUglyNumber_Solution.h" />
     <ClInclude Include="HasSubtree.h" />
     <ClInclude Include="InversePairs.h" />
