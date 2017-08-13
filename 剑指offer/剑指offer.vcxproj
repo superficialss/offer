@@ -190,6 +190,7 @@
     <ClInclude Include="ReverseList.h" />
     <ClInclude Include="StackWithTwoQueue.h" />
     <ClInclude Include="SumSolution.h" />
+    <ClInclude Include="TreeDepth.h" />
     <ClInclude Include="VerifySquenceOfBST.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

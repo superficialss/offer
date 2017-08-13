@@ -41,7 +41,7 @@ using namespace std;
 #include"VerifySquenceOfBST.h"
 //#include"FindPath.h"
 #include"RandomClone.h"
-#include"Convert.h"
+//#include"Convert.h"
 #include"Permutation.h"
 #include"MoreThanHalfNum_Solution.h"
 #include"GetLeastNumbers.h"
@@ -53,6 +53,7 @@ using namespace std;
 #include"InversePairs.h"
 #include"FindFirstCommonNode.h"
 #include"GetNumberOfK.h"
+#include"TreeDepth.h"
 
 
 int main()
@@ -98,7 +99,9 @@ int main()
 	//TestFirstNotRepeatingChar();
 	//TestInversePairs();
 	//TestFindFirstCommonNode();;
-	TestGetNumberOfK();
+	//TestGetNumberOfK();
+	TestTreeDepth();
+
 
 	return 0;
 }
