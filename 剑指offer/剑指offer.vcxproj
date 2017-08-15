@@ -165,6 +165,7 @@
     <ClInclude Include="GetUglyNumber_Solution.h" />
     <ClInclude Include="HasSubtree.h" />
     <ClInclude Include="InversePairs.h" />
+    <ClInclude Include="IsBalanced.h" />
     <ClInclude Include="IsPopOrder.h" />
     <ClInclude Include="JumpFloor.h" />
     <ClInclude Include="JumpFloorII.h" />

@@ -53,7 +53,8 @@ using namespace std;
 #include"InversePairs.h"
 #include"FindFirstCommonNode.h"
 #include"GetNumberOfK.h"
-#include"TreeDepth.h"
+//#include"TreeDepth.h"
+#include"IsBalanced.h"
 
 
 int main()
@@ -100,7 +101,8 @@ int main()
 	//TestInversePairs();
 	//TestFindFirstCommonNode();;
 	//TestGetNumberOfK();
-	TestTreeDepth();
+	//TestTreeDepth();
+	TestIsBalanced();
 
 
 	return 0;
