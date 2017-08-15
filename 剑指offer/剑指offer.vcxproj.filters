@@ -152,5 +152,8 @@
     <ClInclude Include="IsBalanced.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="FindNumsAppearOnce.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

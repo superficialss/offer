@@ -55,6 +55,7 @@ using namespace std;
 #include"GetNumberOfK.h"
 //#include"TreeDepth.h"
 #include"IsBalanced.h"
+#include"FindNumsAppearOnce.h"
 
 
 int main()
@@ -102,7 +103,8 @@ int main()
 	//TestFindFirstCommonNode();;
 	//TestGetNumberOfK();
 	//TestTreeDepth();
-	TestIsBalanced();
+	//TestIsBalanced();
+	TestFindNumsAppearOnce();
 
 
 	return 0;
